@@ -1,5 +1,7 @@
 # Book-Store-
-Book Store Python Tkinter Ptoject
+App- GUI Apps & SQL : Build a book Inventory Desktop GUI Database App
+Book Store Desktop aaplication with .exe & .app File.
+Python Book store Tkinter Ptoject
 Hey ,
 
 So the topic is -->
