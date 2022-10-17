@@ -2,6 +2,12 @@
 App- GUI Apps & SQL : Build a book Inventory Desktop GUI Database App
 Book Store Desktop aaplication with .exe & .app File.
 Python Book store Tkinter Ptoject
+
+*IMP*
+Please save the application (.exe file ) & books.db file in the same location & then hit the application file. Now you will be able to access books application directly ie without adding code .  ( only for windows bcz this is a .exe file)
+*IMP*
+
+
 Hey ,
 
 So the topic is -->
